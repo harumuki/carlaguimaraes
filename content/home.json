@@ -7,17 +7,29 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1.jpg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "img": "/img/uploads/2.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3eb1533e00f2d4d36fbcfaa42a4cef59.jpg"
         }
       ]
     },
