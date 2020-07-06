@@ -1,22 +1,23 @@
 {
-  "store_id": 1123,
-  "name": "carlaguimaraes",
   "domain": "carlaguimaraes.netlify.app",
-  "short_name": "carlaguimaraes",
-  "description": "Produtos de diversas marcas, campanhas promocionais, novidades e muito mais. Cadastre-se e receba nossas ofertas!",
-  "primary_color": "#9a6a40",
-  "secondary_color": "#757575",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#bd0267",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-1-.png",
+  "name": "Shop Carla Guimarães",
+  "short_name": "Shop Carla Guimarães",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.jpg",
+  "country_code": "BR",
+  "secondary_color": "#333333",
+  "icon": "/img/uploads/logo-1-.png",
+  "store_id": 1123,
+  "description": "Produtos de diversas marcas, campanhas promocionais, novidades e muito mais. Cadastre-se e receba nossas ofertas!",
+  "large_icon": "/img/uploads/logo-1-.png"
 }
