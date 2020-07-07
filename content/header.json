@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Frete grátis nas compras acima de R$200,00!",
-    "link": "/pages/entrega"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
