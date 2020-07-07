@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".menu__btn{\n  color: var(--secondary-lightest);\n}",
   "html_head": "",
   "html_body": ""
 }
