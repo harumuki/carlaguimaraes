@@ -1,5 +1,5 @@
 {
-  "css": ".menu__btn{\n  color: var(--secondary-lightest);\n}",
+  "css": "@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}",
   "html_head": "",
   "html_body": ""
 }
